@@ -20,7 +20,7 @@ apt update && apt upgrade
 
 pkg install python git
 
-git clone https://github.com/B32u-ann/NukerNitcha
+git clone https://github.com/B32u-ann/NukerNitcha333
 
 cd NukerNitcha
 
@@ -36,7 +36,7 @@ python nuke-bot.py
 ```
 ## Linux / Windows
 ```console
-git clone https://github.com/B32u-ann/NukerNitcha
+git clone https://github.com/B32u-ann/NukerNitcha333
 
 cd NukerNitcha
 

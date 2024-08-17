@@ -10,11 +10,11 @@
 
 ***
 # Preview
-Link Discord Team333 : https://discord.gg/F9ajJfSr8u
+Link Discord Team333: https://discord.gg/F9ajJfSr8u
 
 ***
 # Installation: By Nitcha
-## Android(Termux) And Googel Cloud Shell:
+## Android (Termux) And Google Cloud Shell:
 ```console
 apt update && apt upgrade
 
